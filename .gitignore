@@ -166,3 +166,6 @@ test/
 .vscode/
 data/
 output/
+
+# etc
+.DS_Store
